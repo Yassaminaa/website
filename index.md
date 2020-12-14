@@ -42,6 +42,21 @@ _Advisors: [:  Eric Goubault](https://quantreg.com/people/marcos-carreira/) and 
   - Trajectory planning algorithms for obstacle avoidance.
 
 
+  ## Education
+
+* **Ecole Polytechnique (X), France : Paris August 2018 – Present**
+A highly selective Masters level engineering school. GPA : 3.96/4.00
+Majoring in Statistics and operations research, with courses in optimisation and machine learning.
+Head of sponsorship division of the X-Afrique student Association.
+  
+* **LYDEX, Morocco : Benguerir August 2016 – August 2018**
+Intensive 2-year university level preparation in Maths and Physics. 3rd in National Exam (CNC) 
+  
+* **Lyc´ee Ben M’Sick, Morocco : Casablanca Sep. 2013 – June 2016**
+High school diploma with highest honors. 1st in Morocco
+  
+  
+
 
 **Bold** and _Italic_ and `Code` text
 
